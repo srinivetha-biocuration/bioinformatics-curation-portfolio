@@ -1,5 +1,5 @@
-Taxon,Taxonomic_Level,Microbiome_Type,Dysbiosis_Association,Disease_or_Condition,Food_Microbe_Association,Probiotic_Prebiotic_Association,Source,Data_Type,Purpose
-Bifidobacterium,Genus,Bacterial,Reported in gut microbiome dysbiosis,IBS and other gut conditions,Food and dietary associations curated,Probiotic-related information curated,Scientific literature,Public example,Portfolio demonstration
-Faecalibacterium,Genus,Bacterial,Reduced abundance reported in dysbiosis,Inflammatory bowel conditions,Dietary fiber and food associations curated,Prebiotic-related information curated,Scientific literature,Public example,Portfolio demonstration
-Akkermansia,Genus,Bacterial,Abundance changes reported in dysbiosis,Metabolic health conditions,Food and dietary associations curated,Prebiotic-related information curated,Scientific literature,Public example,Portfolio demonstration
-Methanobrevibacter,Genus,Archaeal,Altered abundance associated with gut dysbiosis,Constipation-associated conditions,Dietary and fermentation-related associations curated,Not applicable,Scientific literature,Public example,Portfolio demonstration
+Taxon,Taxonomic_Level,Microbiome_Type,Dysbiosis_Association,Disease_or_Condition,Food_Microbe_Association,Source,Data_Type,Purpose
+Bifidobacterium,Genus,Bacterial,Reported in gut microbiome dysbiosis,IBS and other gut conditions,Food and dietary associations curated,Scientific literature,Public example,Portfolio demonstration
+Faecalibacterium,Genus,Bacterial,Reduced abundance reported in dysbiosis,Inflammatory bowel conditions,Dietary and food associations curated,Scientific literature,Public example,Portfolio demonstration
+Akkermansia,Genus,Bacterial,Abundance changes reported in dysbiosis,Metabolic health conditions,Food and dietary associations curated,Scientific literature,Public example,Portfolio demonstration
+Methanobrevibacter,Genus,Archaeal,Altered abundance associated with gut dysbiosis,Constipation-associated conditions,Dietary and fermentation-related associations curated,Scientific literature,Public example,Portfolio demonstration
