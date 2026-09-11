@@ -1,0 +1,4 @@
+Gene,Star_Allele,Variant_ID,Allele_Function,Drug,PGx_Relationship,Source,Data_Type,Purpose
+CYP2C19,*2,rs4244285,No function,Clopidogrel,Reduced clopidogrel activation,CPIC; PharmVar,Public data,Portfolio demonstration
+CYP2C19,*17,rs12248560,Increased function,Clopidogrel,Altered clopidogrel response,CPIC; PharmVar,Public data,Portfolio demonstration
+SLCO1B1,*5,rs4149056,Decreased function,Simvastatin,Increased exposure and myopathy risk,CPIC; PharmVar,Public data,Portfolio demonstration
