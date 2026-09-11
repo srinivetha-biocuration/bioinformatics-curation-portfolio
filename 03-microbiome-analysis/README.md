@@ -1,16 +1,13 @@
 Microbiome Analysis & Curation
 Project Overview
 
-This portfolio project demonstrates my experience in microbiome research, data curation, and scientific interpretation.
+This portfolio project highlights my experience in microbiome research, data curation, and scientific interpretation.
 
-My professional experience includes working with microbiome-related data, microbial taxonomy, dysbiosis assessment, microbial markers, archaeal information, and scientific evidence related to gut microbiome health.
+My professional experience includes working with microbiome-related data, microbial taxonomy, dysbiosis assessment, microbial markers, archaeal information, microbiome metadata, and scientific evidence related to gut microbiome health.
 
-This public project uses non-confidential example data to demonstrate my approach to microbiome analysis and scientific curation.
+This repository contains non-confidential examples intended to showcase my scientific curation and data-management skills.
 
 Curation & Analysis Focus
-
-The project covers:
-
 Microbial taxonomy and classification
 Gut microbiome data interpretation
 Dysbiosis-related analysis
@@ -22,28 +19,19 @@ Microbiome sample metadata
 Metadata organization and quality assessment
 Scientific literature and evidence review
 Structured microbiome data organization
-Example Data Areas
-
-The demonstration may include:
-
-Microbial taxa
-Microbial markers
+Areas of Experience
+Microbial taxa and microbiome information
 Dysbiosis-related information
 Archaeal information
 Microbe–food relationships
 Probiotic and prebiotic information
 Microbiome sample metadata
-Scientific evidence
-Source/reference information
-Resources & Data Areas
-
-The project may demonstrate work involving:
-
+Scientific evidence and literature
+Source and reference assessment
+Resources
 Public microbiome databases
 Scientific literature
 Publicly available microbiome datasets
-Microbiome sample metadata
-Metadata organization and quality assessment
 Published microbiome research
 Skills Demonstrated
 Microbiome data curation
@@ -60,4 +48,4 @@ Confidentiality
 
 No proprietary company datasets, customer information, internal databases, sample identifiers, or confidential work products are included in this repository.
 
-The examples are intended only to demonstrate my scientific curation, microbiome knowledge, and data-management skills.
+The repository is intended to demonstrate my scientific curation, microbiome knowledge, and data-management skills.
