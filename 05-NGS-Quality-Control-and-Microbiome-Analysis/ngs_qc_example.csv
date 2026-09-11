@@ -1,0 +1,5 @@
+Sample_ID,File_Type,QC_Tool,QC_Parameter,Result,Status,Purpose
+SAMPLE_001,FASTQ,FastQC,Per base sequence quality,Good,PASS,Portfolio demonstration
+SAMPLE_001,FASTQ,fastp,Read preprocessing,Completed,PASS,Portfolio demonstration
+SAMPLE_001,FASTQ,MultiQC,Aggregated QC report,Generated,PASS,Portfolio demonstration
+SAMPLE_002,FASTQ,FastQC,Per base sequence quality,Good,PASS,Portfolio demonstration
