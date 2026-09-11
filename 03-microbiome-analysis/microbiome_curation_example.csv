@@ -1,0 +1,5 @@
+Taxon,Taxonomic_Level,Microbiome_Context,Association,Data_Type,Purpose
+Bifidobacterium,Genus,Gut microbiome,Commonly reported beneficial gut-associated genus,Public data,Portfolio demonstration
+Faecalibacterium,Genus,Gut microbiome,Commonly associated with gut health and butyrate production,Public data,Portfolio demonstration
+Akkermansia,Genus,Gut microbiome,Studied in relation to metabolic health and gut barrier function,Public data,Portfolio demonstration
+Methanobrevibacter,Genus,Gut microbiome,Archaeal taxon associated with intestinal methane production,Public data,Portfolio demonstration
