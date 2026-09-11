@@ -1,0 +1,4 @@
+Gene,Variant_ID,Disease_or_Trait,Risk_or_Effect_Allele,Association,Evidence,Source,Data_Type,Purpose
+TCF7L2,rs7903146,Type 2 diabetes,T,Increased disease susceptibility,Published genetic association study,Scientific literature,Public data,Portfolio demonstration
+FTO,rs9939609,Obesity,A,Association with increased obesity risk,Published genetic association study,Scientific literature,Public data,Portfolio demonstration
+IL6,rs1800795,Inflammation-related traits,G,Association with altered inflammatory response,Published genetic association study,Scientific literature,Public data,Portfolio demonstration
